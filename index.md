@@ -65,8 +65,8 @@ Camera-ready version of accepted papers: TBD
 
 ## Track Chairs
 
-Georgiana Caltais, University of Twente, The Netherlands<br>
-Justyna Petke, University Collge London, United Kingdom
+[Georgiana Caltais](https://people.utwente.nl/g.g.c.caltais?tab=contact), University of Twente, The Netherlands<br>
+[Justyna Petke](http://www0.cs.ucl.ac.uk/staff/J.Petke/index.html), University College London, United Kingdom
 
 ## Program Committee
 
