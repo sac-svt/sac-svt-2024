@@ -43,9 +43,10 @@ Author(s) name(s) and address(es) must not appear in the body of the paper, and 
 We welcome research papers and posters. 
 Research papers should have at most 8 two-column pages in ACM format (further two pages, to a total of 10 pages, may be available at a charge). 
 The length of a poster is limited to three pages (one extra page may be available at a charge). 
-Please comply to this page limitat already at submission time.
+Please comply to this page limit already at submission time.
 
 Furthermore, in the context of the Student Research Competition (SRC) program to provide graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest, graduate students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at the SAC 2024 website. 
+Last year's example can be found [here](https://www.sigapp.org/sac/sac2023/authorkit/ACM_SigConf-SRC2023.pdf).
 Submission of the same abstract to multiple tracks is not allowed.
 
 Accepted papers will be published in the ACM SAC 2024 proceedings in the ACM digital library. 
@@ -60,8 +61,8 @@ The submission system for SRC (Student Research Competition) abstracts: [https:/
 
 ## Important Dates
 Paper and SRC abstract submission: September 15th, 2023<br>
-Notification:  TBD <br>
-Camera-ready version of accepted papers: TBD
+Notification:  October 30th, 2023<br>
+Camera-ready and author registration: November 30th, 2023
 
 ## Track Chairs
 
