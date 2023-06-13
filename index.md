@@ -2,14 +2,14 @@
 title: SAC-SVT 2024
 description: Symposium on Applied Computing, Software Verification and Testing Track, 2024
 ---
-Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee)
+Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
 #### Submission Deadline: September 15th, 2023 ####
 
 ## Call For Papers
 
 The ACM Symposium on Applied Computing (SAC) has gathered scientists from different areas of computing for over thirty years. 
-The forum represents an opportunity to interact with different communities sharing an interest in applied computing.
+The forum gives participants an opportunity to interact with different communities sharing an interest in applied computing.
 
 [The 39th ACM Symposium on Applied Computing (SAC 2024)](https://www.sigapp.org/sac/sac2024/) is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and will take place on April 8 - April 12, 2024, in 
 Avila, Spain.
@@ -24,7 +24,7 @@ Possible topics include, but are not limited to:
 - model checking
 - theorem proving
 - correct by construction development
-- verification-based testing
+- model-based testing
 - software testing
 - symbolic execution
 - static and dynamic analysis
@@ -43,7 +43,7 @@ Author(s) name(s) and address(es) must not appear in the body of the paper, and 
 We welcome research papers and posters. 
 Research papers should have at most 8 two-column pages in ACM format (further two pages, to a total of 10 pages, may be available at a charge). 
 The length of a poster is limited to three pages (one extra page may be available at a charge). 
-Please comply to this page limitation already at submission time.
+Please comply to this page limitat already at submission time.
 
 Furthermore, in the context of the Student Research Competition (SRC) program to provide graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest, graduate students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at the SAC 2024 website. 
 Submission of the same abstract to multiple tracks is not allowed.
@@ -71,3 +71,8 @@ Camera-ready version of accepted papers: TBD
 ## Program Committee
 
 TBD
+
+## Previous Editions
+
+The SVT track has been held annually at SAC since 2009. 
+Links to the previous editions can be found on the following website: [https://www.sigapp.org/sac/](https://www.sigapp.org/sac/).
