@@ -55,6 +55,8 @@ An author or a proxy attending SAC MUST present the paper.
 This is a requirement for the paper/poster to be included in the ACM digital library. 
 No-show of registered papers and posters will result in excluding them from the ACM digital library.
 
+Author kit with formatting guidelines for all submission types: [https://www.sigapp.org/sac/sac2024/authorkit.php](https://www.sigapp.org/sac/sac2024/authorkit.php)
+
 The submission system for regular papers: [https://softconf.com/n/sac2024/](https://softconf.com/n/sac2024/)
 
 The submission system for SRC (Student Research Competition) abstracts: [https://softconf.com/n/sac-src2024/](https://softconf.com/n/sac-src2024/)
