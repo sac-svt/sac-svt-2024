@@ -91,6 +91,7 @@ Camera-ready and author registration: November 30th, 2023
 - Jun Pang, University of Luxembourg, Luxembourg
 - Klaus Havelund, Jet Propulsion Laboratory, California Institute of Technology, USA
 - Mahsa Varshosaz, Copenhagen, IT University of Copenhagen, Denmark
+- Marcus Gerhold, University of Twente, The Netherlands
 - Maria del Mar Gallardo, University of Malaga, Spain
 - Mark Utting, The University of Queensland, Australia
 - Martin Leucker, University of Lübeck, Germany
