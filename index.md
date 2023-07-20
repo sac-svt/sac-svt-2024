@@ -73,7 +73,41 @@ Camera-ready and author registration: November 30th, 2023
 
 ## Program Committee
 
-TBD
+- Angelo Gargantini, University of Bergamo, Italy
+- Antoine Rollet, Bordeaux INP, LaBRI, France
+- Anton Wijs, Technische Universiteit Eindhoven, the Netherlands
+- Burkhart Wolff, Université Paris-Saclay, LRI, France
+- Cathérine Dubois, ENSIIE, France
+- Christian Colombo, University of Malta, Malta
+- Crystal Chang Din, University of Bergen, Norway
+- Eduard Kamburjan University of Oslo, Norway
+- Ernst Moritz Hahn, University of Twente, the Netherlands
+- Fatiha Zaidi, University of Paris-Saclay, France
+- Ferhat Khendek, Concordia, Canada
+- Frédéric Loulergue, University of Orléans, France
+- Gwen Salaün, University Grenoble Alpes, Inria, France
+- João Pascoal Faria, INESC TEC and University of Porto, Portugal
+- Julien Signoles, CEA List, France
+- Jun Pang, University of Luxembourg, Luxembourg
+- Klaus Havelund, Jet Propulsion Laboratory, California Institute of Technology, USA
+- Mahsa Varshosaz, Copenhagen, IT University of Copenhagen, Denmark
+- Maria del Mar Gallardo, University of Malaga, Spain
+- Mark Utting, The University of Queensland, Australia
+- Martin Leucker, University of Lübeck, Germany
+- Matthias Güdemann, UAS Münich, Germany
+- Maurizio Leotta, University of Genoa, Italy
+- Mercedes Merayo, Universidad Complutense de Madrid, Spain
+- Michael Foster, University of Sheffield, UK
+- Michele Chiari, Politecnico di Milano, Italy
+- Nikolai Kosmatov, Thales, France
+- Peter Csaba Ölveczky, University of Oslo, Norway
+- Peter Lammich, University of Twente, the Netherlands
+- Renzo Gaston Degiovanni, University of Luxembourg, Luxembourg
+- Sylvain Hallé, Université du Québec à Chicoutimi, Canada
+- Thierry Jéron, Inria, France
+- Tom van Dijk, University of Twente, the Netherlands
+- Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+- Xupeng Li, Columbia University, USA
 
 ## Previous Editions
 
