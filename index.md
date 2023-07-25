@@ -86,6 +86,7 @@ Camera-ready and author registration: November 30th, 2023
 - Ferhat Khendek, Concordia, Canada
 - Frédéric Loulergue, University of Orléans, France
 - Gwen Salaün, University Grenoble Alpes, Inria, France
+- Hüsnü Yenigun, Sabanci University, Turkey
 - João Pascoal Faria, INESC TEC and University of Porto, Portugal
 - Julien Signoles, CEA List, France
 - Jun Pang, University of Luxembourg, Luxembourg
