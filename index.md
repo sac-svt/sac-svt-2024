@@ -4,7 +4,7 @@ description: Symposium on Applied Computing, Software Verification and Testing T
 ---
 Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
-#### Submission Deadline: September 15th, 2023 ####
+#### Submission Deadline:  ~~September 15th, 2023~~  September 29th, 2023 ####
 
 ## Call For Papers
 
