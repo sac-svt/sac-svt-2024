@@ -4,7 +4,7 @@ description: Symposium on Applied Computing, Software Verification and Testing T
 ---
 Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
-#### Submission Deadline:  ~~September 15th, 2023~~  September 29th, 2023 ####
+#### Submission Deadline:  ~~September 15th, 2023~~  ~~September 29th, 2023~~ October 13th, 2023 ####
 
 ## Call For Papers
 
@@ -62,7 +62,7 @@ The submission system for regular papers: [https://softconf.com/n/sac2024/](http
 The submission system for SRC (Student Research Competition) abstracts: [https://softconf.com/n/sac-src2024/](https://softconf.com/n/sac-src2024/)
 
 ## Important Dates
-Paper and SRC abstract submission: ~~September 15th, 2023~~ September 29th, 2023<br>
+Paper and SRC abstract submission: ~~September 15th, 2023~~ ~~September 29th, 2023~~ October 13th, 2023<br>
 Notification:  October 30th, 2023<br>
 Camera-ready and author registration: November 30th, 2023
 
