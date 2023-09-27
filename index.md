@@ -6,6 +6,8 @@ Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submis
 
 #### Submission Deadline:  ~~September 15th, 2023~~  ~~September 29th, 2023~~ October 13th, 2023 ####
 
+
+
 ## Call For Papers
 
 The ACM Symposium on Applied Computing (SAC) has gathered scientists from different areas of computing for over thirty years. 
@@ -42,7 +44,7 @@ Submitted papers will undergo a double-blind review process.
 Author(s) name(s) and address(es) must not appear in the body of the paper, and self-reference should be avoided and made in the third person. 
 We welcome research papers and posters. 
 Research papers should have at most 8 two-column pages in ACM format (further two pages, to a total of 10 pages, may be available at a charge). 
-The length of a poster is limited to three pages (one extra page may be available at a charge). 
+The length of a poster is limited to 2 pages (one extra page may be available at a charge). 
 Please comply to this page limit already at submission time.
 
 Furthermore, in the context of the Student Research Competition (SRC) program to provide graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest, graduate students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at the SAC 2024 website. 
@@ -54,6 +56,10 @@ Paper registration is required, allowing the inclusion of the paper/poster in th
 An author or a proxy attending SAC MUST present the paper. 
 This is a requirement for the paper/poster to be included in the ACM digital library. 
 No-show of registered papers and posters will result in excluding them from the ACM digital library.
+
+### New Poster Page Limit in 2024
+
+We would like to draw your attention to the fact that the page limit for posters has changed from last year. It is now 2 pages with a possibility of one more for an extra charge.
 
 Author kit with formatting guidelines for all submission types: [https://www.sigapp.org/sac/sac2024/authorkit.php](https://www.sigapp.org/sac/sac2024/authorkit.php)
 
