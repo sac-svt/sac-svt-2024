@@ -69,8 +69,8 @@ The submission system for SRC (Student Research Competition) abstracts: [https:/
 
 ## Important Dates
 Paper and SRC abstract submission: ~~September 15th, 2023~~ ~~September 29th, 2023~~ October 13th, 2023<br>
-Notification:  October 30th, 2023<br>
-Camera-ready and author registration: November 30th, 2023
+Notification:  ~~October 30th, 2023~~ November 17, 2023<br>
+Camera-ready and author registration: ~~November 30th, 2023~~ December 15, 2023 
 
 ## Track Chairs
 
