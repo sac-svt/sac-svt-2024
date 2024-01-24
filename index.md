@@ -2,11 +2,20 @@
 title: SAC-SVT 2024
 description: Symposium on Applied Computing, Software Verification and Testing Track, 2024
 ---
-Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
+Navigation: [Accepted Papers](#accepted-papers), [Accepted Posters](#accepted-posters), [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
-#### Submission Deadline:  ~~September 15th, 2023~~  ~~September 29th, 2023~~ October 13th, 2023 ####
+## Accepted Papers 
+- "Verification of Concurrent Machine Code Running on a Single-Core Machine" by Narges Khakpour (Newcastle University, United Kingdom)
+- "(Nearest) Neighbors You Can Rely On: Formally Verified K-D Tree Construction and
+Search in Coq" by Nadeem Abdul Hamid (Berry College, United States)
+- "Resource Constrained Test Case Prioritization with Simulated Annealing in an
+Industrial Context" by Eric Felding (Linköping University, Sweden), Per Erik Strandberg (Westermo Network Technologies AB, Sweden), Nils-Hassan Quttineh (Linköping University, Sweden), Wasif Afzal (Mälardalen University, Sweden)
+- "Quantifying Software Correctness by Combining Architecture Modeling and Formal Program Analysis", Florian Lanzinger, Christian Martin, Frederik Reiche, Samuel Teuber, Robert Heinrich, Alexander Weigl (all at Karlsruhe Institute of Technology, Germany)
+- "A Formal Framework of Model and Logical Embeddings for Verification of Stochastic Systems" by Susmoy Das, Arpit Sharma (both at Indian Institute of Science Education and Research Bhopal, India)
+- "Concurrent NetKAT with Ports" by Hui Feng, Marcello M. Bonsangue (both at LIACS - Leiden University, Netherlands)
 
-
+## Accepted Posters
+- "Isabelle-Verified Correctness of Datalog Programs for Program Analysis", by Anders Schlichtkrull (Aalborg University, Denmark), René Rydhof Hansen (Aalborg University, Denmark), Flemming Nielson (Technical University of Denmark, Denmark)
 
 ## Call For Papers
 
